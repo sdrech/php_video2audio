@@ -1,0 +1,7 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+
+app_index:
+    path: /index
+    controller: App\Controller\IndexController::indexAction
