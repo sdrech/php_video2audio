@@ -2,12 +2,9 @@
 
 namespace App\Service;
 
-use GuzzleHttp\Client;
-
 use transloadit\Transloadit;
 use Symfony\Component\HttpKernel\Exception\ConflictHttpException;
 use Symfony\Component\DependencyInjection\ContainerInterface;
-use GuzzleHttp\Exception\BadResponseException;
 
 /**
  * Integration with Transloadit Multimedia service via API
