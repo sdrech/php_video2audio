@@ -1,7 +1,7 @@
 # video2audio
 
 ## About the Project
-Here is you can find integration 3 services: Slidely PromoVideo, Transloadit Audio, FFmpeg Media library.
+Here you can find integration 3 services: Slidely PromoVideo, Transloadit Audio, FFmpeg Media library.
 Eerything is built on the newest version of Symfony 4.2 and PHP 7.
 
 ## Instruction
